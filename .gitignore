@@ -1,0 +1,8 @@
+.venv
+.env
+*.env
+venv/
+venv
+package-lock.json
+package.json
+node_modules
